@@ -4,6 +4,8 @@
 # Delegate Pool (Based on Goose's TBW)
 A pool website for delegate to show their information. Inspired by ARK Explorer style.
 
+![inteface](https://raw.githubusercontent.com/qvanphong/delegate-pool/main/static/static.png)
+
 ## Requirement
 
 Forked Goose's TBW version that provide REST API from: https://github.com/qvanphong/core2_tbw (use **solar** branch if you are using for Solar Network)
